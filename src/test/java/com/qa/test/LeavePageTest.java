@@ -34,6 +34,7 @@ public void Setup()
 	@Test(priority=0)
 	public void VerifyLeaveLabelTest() {
 		Assert.assertFalse(leavePage.VerifyLeaveLabel());
+		System.out.println("Testcase passed");
 		
 	}
 
