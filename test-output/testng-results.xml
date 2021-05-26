@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-13T19:33:03 IST" name="Demo Project POM Test Automation Test Suite" finished-at="2021-05-13T19:34:44 IST" duration-ms="101693">
+    <groups>
+    </groups>
+    <test started-at="2021-05-13T19:33:03 IST" name="Orange HRM Test cases" finished-at="2021-05-13T19:34:44 IST" duration-ms="101693">
+      <class name="com.qa.test.LoginPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.test.LoginPageTest@318ba8c8]" started-at="2021-05-13T19:33:03 IST" name="Setup" finished-at="2021-05-13T19:33:12 IST" duration-ms="9849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateloginpageTitle()[pri:1, instance:com.qa.test.LoginPageTest@318ba8c8]" started-at="2021-05-13T19:33:12 IST" name="validateloginpageTitle" finished-at="2021-05-13T19:33:13 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateloginpageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.LoginPageTest@318ba8c8]" started-at="2021-05-13T19:33:13 IST" name="teardown" finished-at="2021-05-13T19:33:14 IST" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.test.LoginPageTest@318ba8c8]" started-at="2021-05-13T19:33:14 IST" name="Setup" finished-at="2021-05-13T19:33:23 IST" duration-ms="9860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Login()[pri:2, instance:com.qa.test.LoginPageTest@318ba8c8]" started-at="2021-05-13T19:33:23 IST" name="Login" finished-at="2021-05-13T19:33:28 IST" duration-ms="4304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.LoginPageTest@318ba8c8]" started-at="2021-05-13T19:33:28 IST" name="teardown" finished-at="2021-05-13T19:33:29 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.LoginPageTest -->
+      <class name="com.qa.test.HomePageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:33:29 IST" name="Setup" finished-at="2021-05-13T19:33:42 IST" duration-ms="13188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ClickOnLeavePageTest()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:33:42 IST" name="ClickOnLeavePageTest" finished-at="2021-05-13T19:33:43 IST" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnLeavePageTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:33:43 IST" name="teardown" finished-at="2021-05-13T19:33:44 IST" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:33:44 IST" name="Setup" finished-at="2021-05-13T19:33:57 IST" duration-ms="12754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ClickOnMyInfoPageTest()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:33:57 IST" name="ClickOnMyInfoPageTest" finished-at="2021-05-13T19:33:57 IST" duration-ms="734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnMyInfoPageTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:33:57 IST" name="teardown" finished-at="2021-05-13T19:33:59 IST" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:33:59 IST" name="Setup" finished-at="2021-05-13T19:34:12 IST" duration-ms="13680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyHomePageTitleTest()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:34:12 IST" name="VerifyHomePageTitleTest" finished-at="2021-05-13T19:34:12 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageTitleTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:34:12 IST" name="teardown" finished-at="2021-05-13T19:34:13 IST" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:34:13 IST" name="Setup" finished-at="2021-05-13T19:34:28 IST" duration-ms="14777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyUsernameTest()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:34:28 IST" name="VerifyUsernameTest" finished-at="2021-05-13T19:34:28 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUsernameTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.HomePageTest@6dbb137d]" started-at="2021-05-13T19:34:28 IST" name="teardown" finished-at="2021-05-13T19:34:29 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.HomePageTest -->
+      <class name="com.qa.test.LeavePageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.qa.test.LeavePageTest@3c9d0b9d]" started-at="2021-05-13T19:34:29 IST" name="Setup" finished-at="2021-05-13T19:34:43 IST" duration-ms="13732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLeaveLabelTest()[pri:0, instance:com.qa.test.LeavePageTest@3c9d0b9d]" started-at="2021-05-13T19:34:43 IST" name="VerifyLeaveLabelTest" finished-at="2021-05-13T19:34:43 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLeaveLabelTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.LeavePageTest@3c9d0b9d]" started-at="2021-05-13T19:34:43 IST" name="teardown" finished-at="2021-05-13T19:34:44 IST" duration-ms="1047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.LeavePageTest -->
+    </test> <!-- Orange HRM Test cases -->
+  </suite> <!-- Demo Project POM Test Automation Test Suite -->
+</testng-results>
